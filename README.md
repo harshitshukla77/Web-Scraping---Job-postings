@@ -1,1 +1,1 @@
-# Web-Scraping---Job-postings
+# Web-Scraping - Job-postings
